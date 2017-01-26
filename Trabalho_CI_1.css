@@ -15,16 +15,13 @@ p{
 body {
 	background-image: url("http://novojornal.jor.br/sites/default/files/conteudo/field/image/chuva-forte_22.jpg");
 	background-repeat: no-repeat;
-	background-size: 2000px 1000px;	
+	background-size: cover;	
 }
 
 ul{ 
 	color:black;
 }
 
-{
-	color:black;
-}
 
 a.button{
     color: white;
