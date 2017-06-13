@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Trabalho_CI_1.css">
+<title> Webgrafia</title>
+</head>
+<body>
+	<h1>Webgrafia</h1>
+	<a class="button" href="index.html"><span> Home</span></a>
+</body>
